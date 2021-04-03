@@ -11,7 +11,7 @@ TurtleSMP to serwer Multiplayer Survival dla Minecraft'a
 To proste! Uruchom Minecraft 1.16, kliknij Gra Wieloosobowa,
 dodaj serwer i wklej adres IP który znajduje się poniżej
 
-*turtlesmpipforgithub*
+***turtlesmpipforgithub***
 
 
 
