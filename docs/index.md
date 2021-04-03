@@ -19,4 +19,4 @@ dodaj serwer i wklej adres IP który znajduje się poniżej
 
 ### Pomoc i kontakt
 
-Jakiś problem? Sprawdź stronę z [dokumentacją](https://docs.google.com/document/d/16Y20FgnIrqcH52mK6tVKNaV6wDBG3R9RmrLmVXvlIhI/edit?usp=sharing) lub [skontaktuj się z pomocą](smpturtle76@gmail.com).
+Jakiś problem? Sprawdź stronę z [dokumentacją](https://docs.google.com/document/d/16Y20FgnIrqcH52mK6tVKNaV6wDBG3R9RmrLmVXvlIhI/edit?usp=sharing) lub [skontaktuj się z pomocą](https://forms.gle/2zJkwSnQkE8Nx9En7).
